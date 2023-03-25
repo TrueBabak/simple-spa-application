@@ -7,7 +7,6 @@ const Layout = () => {
     <div className="w-5/6 mx-auto bg-[#A5C9CA] px-4 py-4 rounded-lg">
       <MainHeader />
       <ContactList />
-      <div>App</div>
     </div>
   );
 };
